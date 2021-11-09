@@ -1,4 +1,4 @@
-<img align="right" src="./images/logomark.png" width="300" />
+<img align="right" display="flex" src="./images/logomark.png" width="400" />
 
 ### Fala everyone, AbraaoDev aqui 👋
 
