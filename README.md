@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-<!--
-**AbraaoDev/abraaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fala everyone, AbraaoDev aqui 👋
 
-Here are some ideas to get you started:
+🚀 Meu nome é __Abraão Homualdo__, __desenvolvedor WEB__ e de sistemas, auxiliar de projetos gerenciadores de finanças, estudando e aprendendo
+constantemente sobre as tecnologias mais atuais (front-end/back-end).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    - ⚡ Atualmente Cursando Ignite | RocketSeat
+    - ⚡ Graduando em Ciência da Computação | UFPB
+    
+    
+    
+
+
