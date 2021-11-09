@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/abraaodev/abraaodev/blob/master/images/logomark.png" width="300"/>
+<img align="right" src="https://github.com/abraaodev/abraaodev/images/logomark.png" />
 
 ### Fala everyone, AbraaoDev aqui 👋
 
