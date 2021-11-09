@@ -5,11 +5,10 @@
 🚀 Meu nome é __Abraão Homualdo__, __desenvolvedor WEB__ e de sistemas, auxiliar de projetos gerenciadores de finanças, estudando e aprendendo
 constantemente sobre as tecnologias mais atuais (front-end/back-end).
 
-
+    
     - ⚡ Atualmente Cursando Ignite | RocketSeat
     - ⚡ Graduando em Ciência da Computação | UFPB
-    
-    
+        
     
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
