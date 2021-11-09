@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/abraaodev/abraaodev/blob/master/images/logowhite.svg" width="300"/>
 
 ### Fala everyone, AbraaoDev aqui 👋
 
