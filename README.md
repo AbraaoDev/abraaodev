@@ -8,6 +8,7 @@ constantemente sobre as tecnologias mais atuais (front-end/back-end).
     
     - ⚡ Atualmente Cursando Ignite | RocketSeat
     - ⚡ Graduando em Ciência da Computação | UFPB
+    - ⚡ Developer Fullstack in Synchro    
         
     
 <div style="display: inline_block"><br>
