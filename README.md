@@ -6,9 +6,10 @@
 constantemente sobre as tecnologias mais atuais (front-end/back-end).
 
     
-    - ⚡ Atualmente Cursando Ignite | RocketSeat
+    - ⚡ UI/UX in SENAI
     - ⚡ Graduando em Ciência da Computação | UFPB
     - ⚡ Developer Fullstack in Synchro    
+    - ⚡ UI/UX in SENAI
         
     
 <div style="display: inline_block"><br>
