@@ -9,7 +9,7 @@ constantemente sobre as tecnologias mais atuais (front-end/back-end).
     - ⚡ UI/UX in SENAI
     - ⚡ Graduando em Ciência da Computação | UFPB
     - ⚡ Developer Fullstack in Synchro    
-    - ⚡ UI/UX in SENAI
+    - ⚡ Developer Fullstack in Stack
         
     
 <div style="display: inline_block"><br>
