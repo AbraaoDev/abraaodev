@@ -5,9 +5,10 @@
 🚀 Meu nome é __Abraão Homualdo__, __desenvolvedor WEB__ e de sistemas, auxiliar de projetos gerenciadores de finanças, estudando e aprendendo
 constantemente sobre as tecnologias mais atuais (front-end/back-end).
 
-    
+    - ⚡ Graduado em Ciência da Computação | UFPB
     - ⚡ UI/UX in SENAI
-    - ⚡ Graduando em Ciência da Computação | UFPB
+    - ⚡ UI/UX in CACTO
+    - ⚡ P&D in Inova
     - ⚡ Developer Fullstack in Synchro    
     - ⚡ Developer Fullstack in Stack
         
