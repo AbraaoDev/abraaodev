@@ -6,12 +6,9 @@
 constantemente sobre as tecnologias mais atuais (front-end/back-end).
 
     - ⚡ Graduado em Ciência da Computação | UFPB
-    - ⚡ UI/UX in SENAI
+    - ⚡ Developer FullStack in SENAI
     - ⚡ UI/UX in CACTO
-    - ⚡ P&D in Inova
-    - ⚡ Developer Fullstack in Synchro    
-    - ⚡ Developer Fullstack in Stack
-        
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
