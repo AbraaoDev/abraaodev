@@ -2,8 +2,7 @@
 
 ### Fala everyone, AbraaoDev aqui 👾
 
-🚀 Meu nome é __Abraão Homualdo__, __desenvolvedor WEB__ e de sistemas, auxiliar de projetos gerenciadores de finanças, estudando e aprendendo
-constantemente sobre as tecnologias mais atuais (front-end/back-end).
+🚀 Meu nome é __Abraão Homualdo__, **Desenvolvedor de software**, formado em Ciência da Computação​ na UFPB e focado em soluções web e mobile. Já passei por empresas como: Synchro Soluções Fiscais, Secretaria da Fazenda (CACTO), atuei em projetos de integração de softwares na UFPB e já me aventurei com uma Startup (Stack) de desenvolvimento de software.
 
     - ⚡ Graduado em Ciência da Computação | UFPB
     - ⚡ Developer FullStack in SENAI
