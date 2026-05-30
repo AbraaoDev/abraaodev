@@ -6,7 +6,7 @@
 
     - ⚡ Graduado em Ciência da Computação | UFPB
     - ⚡ Engenheiro de Software do SENAI
-    - ⚡ CEO Klipay (SaaS de replays esportivos)
+    - ⚡ Desenvolvedor - Klipay (SaaS de replays esportivos)
 
     
 <div style="display: inline_block"><br>
