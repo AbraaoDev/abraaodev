@@ -5,8 +5,8 @@
 🚀 Sou **Engenheiro de Software**, formado em Ciência da Computação​ na UFPB e focado em soluções web e mobile. Já passei por empresas como: Synchro Soluções Fiscais, Secretaria da Fazenda (CACTO), atuei em projetos de integração de softwares na UFPB e já me aventurei com uma Startup (Stack) de desenvolvimento de software, e atualmente estou com um projeto em produção.
 
     - ⚡ Graduado em Ciência da Computação | UFPB
-    - ⚡ Engenheiro de Software do SENAI
-    - ⚡ Desenvolvedor - Klipay (SaaS de replays esportivos)
+    - ⚡ Engenheiro de Software | SENAI
+    - ⚡ Desenvolvedor | Klipay (SaaS de replays esportivos)
 
     
 <div style="display: inline_block"><br>
