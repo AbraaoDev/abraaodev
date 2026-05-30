@@ -1,12 +1,12 @@
-<img align="right" display="flex" src="./images/logomark.png" width="400" />
+<img align="center" display="flex" src="./images/logo.svg" width="200" />
 
-### Fala everyone, AbraaoDev aqui 👾
+### Fala everyone, Abraao Moreira aqui 👾
 
-🚀 Meu nome é __Abraão Homualdo__, **Desenvolvedor de software**, formado em Ciência da Computação​ na UFPB e focado em soluções web e mobile. Já passei por empresas como: Synchro Soluções Fiscais, Secretaria da Fazenda (CACTO), atuei em projetos de integração de softwares na UFPB e já me aventurei com uma Startup (Stack) de desenvolvimento de software.
+🚀 Sou **Engenheiro de Software**, formado em Ciência da Computação​ na UFPB e focado em soluções web e mobile. Já passei por empresas como: Synchro Soluções Fiscais, Secretaria da Fazenda (CACTO), atuei em projetos de integração de softwares na UFPB e já me aventurei com uma Startup (Stack) de desenvolvimento de software, e atualmente estou com um projeto em produção.
 
     - ⚡ Graduado em Ciência da Computação | UFPB
-    - ⚡ Developer FullStack in SENAI
-    - ⚡ UI/UX in CACTO
+    - ⚡ Engenheiro de Software do SENAI
+    - ⚡ CEO Klipay (SaaS de replays esportivos)
 
     
 <div style="display: inline_block"><br>
@@ -16,13 +16,20 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bun/bun-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bun/bun-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastify/fastify-plain.svg">
+    
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/axios/axios-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg">
 </div>
     
 
+    
+    
 
-    
-    
-    
+
 
 
